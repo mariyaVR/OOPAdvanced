@@ -1,0 +1,6 @@
+E:\Softuni\OOPAdvanced\1\Interfaces\1.DefineInterfaceIPerson\bin\Debug\1.DefineInterfaceIPerson.exe.config
+E:\Softuni\OOPAdvanced\1\Interfaces\1.DefineInterfaceIPerson\bin\Debug\1.DefineInterfaceIPerson.exe
+E:\Softuni\OOPAdvanced\1\Interfaces\1.DefineInterfaceIPerson\bin\Debug\1.DefineInterfaceIPerson.pdb
+E:\Softuni\OOPAdvanced\1\Interfaces\1.DefineInterfaceIPerson\obj\Debug\1.2.DefineInterfaceIPerson.csprojResolveAssemblyReference.cache
+E:\Softuni\OOPAdvanced\1\Interfaces\1.DefineInterfaceIPerson\obj\Debug\1.DefineInterfaceIPerson.exe
+E:\Softuni\OOPAdvanced\1\Interfaces\1.DefineInterfaceIPerson\obj\Debug\1.DefineInterfaceIPerson.pdb

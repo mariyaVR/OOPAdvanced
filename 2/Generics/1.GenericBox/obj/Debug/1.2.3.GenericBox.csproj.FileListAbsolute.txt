@@ -1,0 +1,6 @@
+E:\Softuni\OOPAdvanced\2\Generics\1.GenericBox\bin\Debug\1.GenericBox.exe.config
+E:\Softuni\OOPAdvanced\2\Generics\1.GenericBox\bin\Debug\1.GenericBox.exe
+E:\Softuni\OOPAdvanced\2\Generics\1.GenericBox\bin\Debug\1.GenericBox.pdb
+E:\Softuni\OOPAdvanced\2\Generics\1.GenericBox\obj\Debug\1.2.3.GenericBox.csprojResolveAssemblyReference.cache
+E:\Softuni\OOPAdvanced\2\Generics\1.GenericBox\obj\Debug\1.GenericBox.exe
+E:\Softuni\OOPAdvanced\2\Generics\1.GenericBox\obj\Debug\1.GenericBox.pdb

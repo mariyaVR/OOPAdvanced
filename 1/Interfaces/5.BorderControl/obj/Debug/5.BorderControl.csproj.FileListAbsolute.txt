@@ -1,0 +1,6 @@
+E:\Softuni\OOPAdvanced\1\Interfaces\5.BorderControl\bin\Debug\5.BorderControl.exe.config
+E:\Softuni\OOPAdvanced\1\Interfaces\5.BorderControl\bin\Debug\5.BorderControl.exe
+E:\Softuni\OOPAdvanced\1\Interfaces\5.BorderControl\bin\Debug\5.BorderControl.pdb
+E:\Softuni\OOPAdvanced\1\Interfaces\5.BorderControl\obj\Debug\5.BorderControl.csprojResolveAssemblyReference.cache
+E:\Softuni\OOPAdvanced\1\Interfaces\5.BorderControl\obj\Debug\5.BorderControl.exe
+E:\Softuni\OOPAdvanced\1\Interfaces\5.BorderControl\obj\Debug\5.BorderControl.pdb

@@ -1,0 +1,6 @@
+E:\Softuni\OOPAdvanced\2\Generics\6.GenericCountMethodStrings\bin\Debug\6.GenericCountMethodStrings.exe.config
+E:\Softuni\OOPAdvanced\2\Generics\6.GenericCountMethodStrings\obj\Debug\6.GenericCountMethodStrings.csprojResolveAssemblyReference.cache
+E:\Softuni\OOPAdvanced\2\Generics\6.GenericCountMethodStrings\bin\Debug\6.GenericCountMethodStrings.exe
+E:\Softuni\OOPAdvanced\2\Generics\6.GenericCountMethodStrings\bin\Debug\6.GenericCountMethodStrings.pdb
+E:\Softuni\OOPAdvanced\2\Generics\6.GenericCountMethodStrings\obj\Debug\6.GenericCountMethodStrings.exe
+E:\Softuni\OOPAdvanced\2\Generics\6.GenericCountMethodStrings\obj\Debug\6.GenericCountMethodStrings.pdb

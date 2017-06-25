@@ -1,0 +1,5 @@
+E:\Softuni\OOPAdvanced\2\Generics\8.CustomList\bin\Debug\8.CustomList.exe.config
+E:\Softuni\OOPAdvanced\2\Generics\8.CustomList\obj\Debug\8.CustomList.exe
+E:\Softuni\OOPAdvanced\2\Generics\8.CustomList\obj\Debug\8.CustomList.pdb
+E:\Softuni\OOPAdvanced\2\Generics\8.CustomList\bin\Debug\8.CustomList.exe
+E:\Softuni\OOPAdvanced\2\Generics\8.CustomList\bin\Debug\8.CustomList.pdb

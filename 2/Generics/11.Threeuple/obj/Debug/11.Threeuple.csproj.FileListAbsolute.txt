@@ -1,0 +1,6 @@
+E:\Softuni\OOPAdvanced\2\Generics\11.Threeuple\bin\Debug\11.Threeuple.exe.config
+E:\Softuni\OOPAdvanced\2\Generics\11.Threeuple\obj\Debug\11.Threeuple.csprojResolveAssemblyReference.cache
+E:\Softuni\OOPAdvanced\2\Generics\11.Threeuple\bin\Debug\11.Threeuple.exe
+E:\Softuni\OOPAdvanced\2\Generics\11.Threeuple\bin\Debug\11.Threeuple.pdb
+E:\Softuni\OOPAdvanced\2\Generics\11.Threeuple\obj\Debug\11.Threeuple.exe
+E:\Softuni\OOPAdvanced\2\Generics\11.Threeuple\obj\Debug\11.Threeuple.pdb

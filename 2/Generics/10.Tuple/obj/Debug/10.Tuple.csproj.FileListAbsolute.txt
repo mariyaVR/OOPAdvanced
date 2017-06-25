@@ -1,0 +1,6 @@
+E:\Softuni\OOPAdvanced\2\Generics\10.Tuple\bin\Debug\10.Tuple.exe.config
+E:\Softuni\OOPAdvanced\2\Generics\10.Tuple\bin\Debug\10.Tuple.exe
+E:\Softuni\OOPAdvanced\2\Generics\10.Tuple\bin\Debug\10.Tuple.pdb
+E:\Softuni\OOPAdvanced\2\Generics\10.Tuple\obj\Debug\10.Tuple.csprojResolveAssemblyReference.cache
+E:\Softuni\OOPAdvanced\2\Generics\10.Tuple\obj\Debug\10.Tuple.exe
+E:\Softuni\OOPAdvanced\2\Generics\10.Tuple\obj\Debug\10.Tuple.pdb
