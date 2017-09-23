@@ -1,0 +1,6 @@
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparators\3.Stack\bin\Debug\3.Stack.exe.config
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparators\3.Stack\bin\Debug\3.Stack.exe
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparators\3.Stack\bin\Debug\3.Stack.pdb
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparators\3.Stack\obj\Debug\3.Stack.csprojResolveAssemblyReference.cache
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparators\3.Stack\obj\Debug\3.Stack.exe
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparators\3.Stack\obj\Debug\3.Stack.pdb

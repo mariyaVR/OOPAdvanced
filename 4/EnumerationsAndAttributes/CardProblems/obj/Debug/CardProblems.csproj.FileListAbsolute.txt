@@ -1,0 +1,6 @@
+E:\Softuni\OOPAdvanced\4\EnumerationsAndAttributes\CardProblems\bin\Debug\CardProblems.exe.config
+E:\Softuni\OOPAdvanced\4\EnumerationsAndAttributes\CardProblems\bin\Debug\CardProblems.exe
+E:\Softuni\OOPAdvanced\4\EnumerationsAndAttributes\CardProblems\bin\Debug\CardProblems.pdb
+E:\Softuni\OOPAdvanced\4\EnumerationsAndAttributes\CardProblems\obj\Debug\CardProblems.csprojResolveAssemblyReference.cache
+E:\Softuni\OOPAdvanced\4\EnumerationsAndAttributes\CardProblems\obj\Debug\CardProblems.exe
+E:\Softuni\OOPAdvanced\4\EnumerationsAndAttributes\CardProblems\obj\Debug\CardProblems.pdb

@@ -1,0 +1,6 @@
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparators\6.StrategyPattern\bin\Debug\6.StrategyPattern.exe.config
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparators\6.StrategyPattern\bin\Debug\6.StrategyPattern.exe
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparators\6.StrategyPattern\bin\Debug\6.StrategyPattern.pdb
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparators\6.StrategyPattern\obj\Debug\6.StrategyPattern.csprojResolveAssemblyReference.cache
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparators\6.StrategyPattern\obj\Debug\6.StrategyPattern.exe
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparators\6.StrategyPattern\obj\Debug\6.StrategyPattern.pdb

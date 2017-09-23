@@ -1,0 +1,6 @@
+E:\Softuni\OOPAdvanced\4\EnumerationsAndAttributes\9.TrafficLights\bin\Debug\9.TrafficLights.exe.config
+E:\Softuni\OOPAdvanced\4\EnumerationsAndAttributes\9.TrafficLights\bin\Debug\9.TrafficLights.exe
+E:\Softuni\OOPAdvanced\4\EnumerationsAndAttributes\9.TrafficLights\bin\Debug\9.TrafficLights.pdb
+E:\Softuni\OOPAdvanced\4\EnumerationsAndAttributes\9.TrafficLights\obj\Debug\9.TrafficLights.csprojResolveAssemblyReference.cache
+E:\Softuni\OOPAdvanced\4\EnumerationsAndAttributes\9.TrafficLights\obj\Debug\9.TrafficLights.exe
+E:\Softuni\OOPAdvanced\4\EnumerationsAndAttributes\9.TrafficLights\obj\Debug\9.TrafficLights.pdb

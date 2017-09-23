@@ -1,0 +1,6 @@
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparators\4. Froggy\bin\Debug\_4.Froggy.exe.config
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparators\4. Froggy\bin\Debug\_4.Froggy.exe
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparators\4. Froggy\bin\Debug\_4.Froggy.pdb
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparators\4. Froggy\obj\Debug\4. Froggy.csprojResolveAssemblyReference.cache
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparators\4. Froggy\obj\Debug\_4.Froggy.exe
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparators\4. Froggy\obj\Debug\_4.Froggy.pdb

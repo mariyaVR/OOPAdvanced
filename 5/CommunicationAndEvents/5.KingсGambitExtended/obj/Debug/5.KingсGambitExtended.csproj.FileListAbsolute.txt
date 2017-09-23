@@ -1,0 +1,6 @@
+E:\Softuni\OOPAdvanced\7\CommunicationAndEvents\5.KingсGambitExtended\bin\Debug\5.KingсGambitExtended.exe.config
+E:\Softuni\OOPAdvanced\7\CommunicationAndEvents\5.KingсGambitExtended\bin\Debug\5.KingсGambitExtended.exe
+E:\Softuni\OOPAdvanced\7\CommunicationAndEvents\5.KingсGambitExtended\bin\Debug\5.KingсGambitExtended.pdb
+E:\Softuni\OOPAdvanced\7\CommunicationAndEvents\5.KingсGambitExtended\obj\Debug\5.KingсGambitExtended.csprojResolveAssemblyReference.cache
+E:\Softuni\OOPAdvanced\7\CommunicationAndEvents\5.KingсGambitExtended\obj\Debug\5.KingсGambitExtended.exe
+E:\Softuni\OOPAdvanced\7\CommunicationAndEvents\5.KingсGambitExtended\obj\Debug\5.KingсGambitExtended.pdb

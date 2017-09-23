@@ -1,0 +1,6 @@
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparators\5.ComparingObjects\bin\Debug\5.ComparingObjects.exe.config
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparators\5.ComparingObjects\obj\Debug\5.ComparingObjects.csprojResolveAssemblyReference.cache
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparators\5.ComparingObjects\bin\Debug\5.ComparingObjects.exe
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparators\5.ComparingObjects\bin\Debug\5.ComparingObjects.pdb
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparators\5.ComparingObjects\obj\Debug\5.ComparingObjects.exe
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparators\5.ComparingObjects\obj\Debug\5.ComparingObjects.pdb

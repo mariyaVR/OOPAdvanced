@@ -1,0 +1,6 @@
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparatorsLab\1.Library\bin\Debug\1.Library.exe.config
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparatorsLab\1.Library\obj\Debug\1.Library.csprojResolveAssemblyReference.cache
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparatorsLab\1.Library\bin\Debug\1.Library.exe
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparatorsLab\1.Library\bin\Debug\1.Library.pdb
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparatorsLab\1.Library\obj\Debug\1.Library.exe
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparatorsLab\1.Library\obj\Debug\1.Library.pdb

@@ -1,0 +1,5 @@
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparators\07.EqualityLogic\bin\Debug\07.EqualityLogic.exe.config
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparators\07.EqualityLogic\bin\Debug\07.EqualityLogic.exe
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparators\07.EqualityLogic\bin\Debug\07.EqualityLogic.pdb
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparators\07.EqualityLogic\obj\Debug\07.EqualityLogic.exe
+E:\Softuni\OOPAdvanced\3\IteratorsAndComparators\07.EqualityLogic\obj\Debug\07.EqualityLogic.pdb

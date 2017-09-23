@@ -1,0 +1,5 @@
+E:\Softuni\OOPAdvanced\4\EnumerationsAndAttributes\10.CreateCustomClassAttribute\bin\Debug\10.CreateCustomClassAttribute.exe.config
+E:\Softuni\OOPAdvanced\4\EnumerationsAndAttributes\10.CreateCustomClassAttribute\bin\Debug\10.CreateCustomClassAttribute.exe
+E:\Softuni\OOPAdvanced\4\EnumerationsAndAttributes\10.CreateCustomClassAttribute\bin\Debug\10.CreateCustomClassAttribute.pdb
+E:\Softuni\OOPAdvanced\4\EnumerationsAndAttributes\10.CreateCustomClassAttribute\obj\Debug\10.CreateCustomClassAttribute.exe
+E:\Softuni\OOPAdvanced\4\EnumerationsAndAttributes\10.CreateCustomClassAttribute\obj\Debug\10.CreateCustomClassAttribute.pdb

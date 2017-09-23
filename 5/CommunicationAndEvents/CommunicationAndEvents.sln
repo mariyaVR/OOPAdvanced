@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.EventImplementation", "1.EventImplementation\1.EventImplementation.csproj", "{D16849CD-C801-465C-8A5C-1528C359BCEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.King’sGambit", "2.King’sGambit\2.King’sGambit.csproj", "{56F78D08-0346-43C4-AEE0-B00BD90C0CA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.DependencyInversion", "3.DependencyInversion\3.DependencyInversion.csproj", "{36170534-11FE-424C-96D5-8E85F628F20C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.WorkForce", "4.WorkForce\4.WorkForce.csproj", "{0B7329BE-2E8B-465C-AD28-BCD96F1414A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem3.DependencyInversion", "Problem3.DependencyInversion\Problem3.DependencyInversion.csproj", "{2B769737-5BF4-4C63-80DE-5ED1C7C5165F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.KingсGambitExtended", "5.KingсGambitExtended\5.KingсGambitExtended.csproj", "{F982C233-BDFF-4269-94B7-77C0A87F216C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D16849CD-C801-465C-8A5C-1528C359BCEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D16849CD-C801-465C-8A5C-1528C359BCEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D16849CD-C801-465C-8A5C-1528C359BCEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D16849CD-C801-465C-8A5C-1528C359BCEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56F78D08-0346-43C4-AEE0-B00BD90C0CA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56F78D08-0346-43C4-AEE0-B00BD90C0CA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56F78D08-0346-43C4-AEE0-B00BD90C0CA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56F78D08-0346-43C4-AEE0-B00BD90C0CA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36170534-11FE-424C-96D5-8E85F628F20C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36170534-11FE-424C-96D5-8E85F628F20C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36170534-11FE-424C-96D5-8E85F628F20C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36170534-11FE-424C-96D5-8E85F628F20C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B7329BE-2E8B-465C-AD28-BCD96F1414A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B7329BE-2E8B-465C-AD28-BCD96F1414A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B7329BE-2E8B-465C-AD28-BCD96F1414A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B7329BE-2E8B-465C-AD28-BCD96F1414A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B769737-5BF4-4C63-80DE-5ED1C7C5165F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B769737-5BF4-4C63-80DE-5ED1C7C5165F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B769737-5BF4-4C63-80DE-5ED1C7C5165F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B769737-5BF4-4C63-80DE-5ED1C7C5165F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F982C233-BDFF-4269-94B7-77C0A87F216C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F982C233-BDFF-4269-94B7-77C0A87F216C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F982C233-BDFF-4269-94B7-77C0A87F216C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F982C233-BDFF-4269-94B7-77C0A87F216C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
